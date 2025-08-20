@@ -1,5 +1,31 @@
 ---
 marp: true
+theme: default
+class: lead
+paginate: true
+---
+
+# My Presentation
+
+- Ganesh Krish
+- Email: ganeshkrish6104@gmail.com
+
+---
+
+## Slide 1
+
+This is my first Marp slide.
+
+---
+
+## Slide 2
+
+- Bullet point 1
+- Bullet point 2
+- Bullet point 3
+
+---
+marp: true
 title: Product Documentation Presentation
 author: Ganesh
 paginate: true
